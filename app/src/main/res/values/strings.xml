@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaLocationDistanceTrackingApp</string>
+    <string name="distance_covered">Distance Covered :</string>
+    <string name="need_location">Enable GPS SERVICE</string>
+    <string name="location_content">This app wants to change your device settings use GPS,Wi-Fi and cell networks for
+        your location
+    </string>
+</resources>
